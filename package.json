@@ -4,12 +4,12 @@
   "author": "",
   "main": "index.js",
   "dependencies": {
-    "@biomejs/biome": "^2.1.4",
-    "@types/node": "^24.1.0",
-    "dotenv": "^17.2.1",
-    "tsx": "^4.20.3",
-    "typescript": "^5.9.2",
-    "viem": "^2.33.2"
+    "@biomejs/biome": "2.1.4",
+    "@types/node": "24.2.0",
+    "dotenv": "17.2.1",
+    "tsx": "4.20.3",
+    "typescript": "5.9.2",
+    "viem": "2.33.2"
   },
   "description": "",
   "keywords": [],
